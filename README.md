@@ -1,2 +1,2 @@
-# pravinnikure
-This is my personal website(For Profile)
+# p5js_sketch
+Showing how to host p5.js sketch with github pages
